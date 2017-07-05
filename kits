@@ -1,1 +1,21 @@
+---
+starter:
+  items:
+  - "256:0:1"
+  - "257:0:1"
+  - "258:0:1"
+  - "267:0:1:weapon_sharpness:1"
+  - "322:0:2"
+  - "364:0:16"
+  helmet: "306:0:1:Starter:armor_protection:1"
+  chestplate: "307:0:1:Starter:armor_protection:1"
+  leggings: "308:0:1::Starter:armor_protection:1"
+  boots: "308:0:1:Starter:armor_protection:1"
 
+  commands:
+  - "tell {player} You've Gotten starteer Because You Donated, Thanks!!!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
+...
