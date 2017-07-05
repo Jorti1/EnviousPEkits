@@ -56,4 +56,42 @@ Ultra:
   cooldown:
     hours: 3
     minutes: 0
+overlock:
+  items:
+  - "276:0:1:weapon_sharpness:3"
+  - "277:0:1:weapon_efficiency:3"
+  - "278:0:1weapon_efficiency:3"
+  - "279:0:1weapon_efficiency:3"
+  - "322:0:15"
+  - "364:0:32"
+  helmet: "310:0:1:Ultra:armor_protection:3"
+  chestplate: "311:0:1:Ultra:armor_protection:3"
+  leggings: "312:0:1::Ultra:armor_protection:3"
+  boots: "313:0:1:Ultra:armor_protection:3"
+
+  commands:
+  - "tell {player} You've Gotten ultra Because You Donated, Thanks!!!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
+warlock:
+  items:
+  - "276:0:1:weapon_sharpness:4"
+  - "277:0:1:weapon_efficiency:4"
+  - "278:0:1weapon_efficiency:4"
+  - "279:0:1weapon_efficiency:4"
+  - "322:0:20"
+  - "364:0:32"
+  helmet: "310:0:1:Ultra:armor_protection:4"
+  chestplate: "311:0:1:Ultra:armor_protection:4"
+  leggings: "312:0:1::Ultra:armor_protection:4"
+  boots: "313:0:1:Ultra:armor_protection:4"
+
+  commands:
+  - "tell {player} You've Gotten ultra Because You Donated, Thanks!!!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
 ...
