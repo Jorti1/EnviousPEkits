@@ -37,7 +37,7 @@ mage:
   cooldown:
     hours: 3
     minutes: 0
-Ultra:
+ultra:
   items:
   - "276:0:1:weapon_sharpness:1"
   - "277:0:1:weapon_efficiency:1"
