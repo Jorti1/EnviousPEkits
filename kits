@@ -1,9 +1,9 @@
 ---
 starter:
   items:
-  - "256:0:1"
-  - "257:0:1"
-  - "258:0:1"
+  - "256:0:1:weapon_efficiency:1"
+  - "257:0:1weapon_efficiency:1"
+  - "258:0:1weapon_efficiency:1"
   - "267:0:1:weapon_sharpness:1"
   - "322:0:2"
   - "364:0:16"
@@ -13,7 +13,26 @@ starter:
   boots: "308:0:1:Starter:armor_protection:1"
 
   commands:
-  - "tell {player} You've Gotten starteer Because You Donated, Thanks!!!"
+  - "tell {player} You've Gotten starter Because You Donated, Thanks!!!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
+mage:
+  items:
+  - "256:0:1:weapon_efficiency:2"
+  - "257:0:1weapon_efficiency:2"
+  - "258:0:1weapon_efficiency:2"
+  - "267:0:1:weapon_sharpness:2"
+  - "322:0:5"
+  - "364:0:32"
+  helmet: "306:0:1:Starter:armor_protection:2"
+  chestplate: "307:0:1:Starter:armor_protection:2"
+  leggings: "308:0:1::Starter:armor_protection:2"
+  boots: "308:0:1:Starter:armor_protection:2"
+
+  commands:
+  - "tell {player} You've Gotten mage Because You Donated, Thanks!!!"
 
   cooldown:
     hours: 3
