@@ -13,7 +13,7 @@ starter:
   boots: "308:0:1:Starter:armor_protection:1"
 
   commands:
-  - "tell {player} You've Gotten starter Because You Donated, Thanks!!!"
+  - "tell {player}  Hey, you just received kit Starter! Thank you for donating, this allows us to give better quality servers for you!"
 
   cooldown:
     hours: 3
@@ -32,7 +32,7 @@ mage:
   boots: "308:0:1:Mage:armor_protection:2"
 
   commands:
-  - "tell {player} You've Gotten mage Because You Donated, Thanks!!!"
+  - "tell {player} Hey, you just received kit Mage! Thank you for donating, this allows us to give better quality servers for you!"
 
   cooldown:
     hours: 3
@@ -47,11 +47,11 @@ Ultra:
   - "364:0:32"
   helmet: "310:0:1:Ultra:armor_protection:1"
   chestplate: "311:0:1:Ultra:armor_protection:1"
-  leggings: "312:0:1::Ultra:armor_protection:1"
+  leggings: "312:0:1:Ultra:armor_protection:1"
   boots: "313:0:1:Ultra:armor_protection:1"
 
   commands:
-  - "tell {player} You've Gotten ultra Because You Donated, Thanks!!!"
+  - "tell {player} Hey, you just received kit Ultra! Thank you for donating, this allows us to give better quality servers for you!"
 
   cooldown:
     hours: 3
@@ -64,13 +64,13 @@ overlock:
   - "279:0:1weapon_efficiency:3"
   - "322:0:15"
   - "364:0:32"
-  helmet: "310:0:1:Ultra:armor_protection:3"
-  chestplate: "311:0:1:Ultra:armor_protection:3"
-  leggings: "312:0:1::Ultra:armor_protection:3"
-  boots: "313:0:1:Ultra:armor_protection:3"
+  helmet: "310:0:1:Overlock:armor_protection:3"
+  chestplate: "311:0:1:Overlock:armor_protection:3"
+  leggings: "312:0:1:Overlock:armor_protection:3"
+  boots: "313:0:1:Overlock:armor_protection:3"
 
   commands:
-  - "tell {player} You've Gotten ultra Because You Donated, Thanks!!!"
+  - "tell {player} Hey, you just received kit Overlock! Thank you for donating, this allows us to give better quality servers for you!"
 
   cooldown:
     hours: 3
@@ -83,13 +83,53 @@ warlock:
   - "279:0:1weapon_efficiency:4"
   - "322:0:20"
   - "364:0:32"
-  helmet: "310:0:1:Ultra:armor_protection:4"
-  chestplate: "311:0:1:Ultra:armor_protection:4"
-  leggings: "312:0:1::Ultra:armor_protection:4"
-  boots: "313:0:1:Ultra:armor_protection:4"
+  helmet: "310:0:1:Warlock:armor_protection:4"
+  chestplate: "311:0:1:Warlock:armor_protection:4"
+  leggings: "312:0:1:Warlock:armor_protection:4"
+  boots: "313:0:1:Warlock:armor_protection:4"
 
   commands:
-  - "tell {player} You've Gotten ultra Because You Donated, Thanks!!!"
+  - "tell {player} Hey, you just received kit Warlock! Thank you for donating, this allows us to give better quality servers for you!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
+razor:
+  items:
+  - "276:0:1:weapon_sharpness:5"
+  - "277:0:1:weapon_efficiency:5"
+  - "278:0:1weapon_efficiency:5"
+  - "279:0:1weapon_efficiency:5"
+  - "322:0:30"
+  - "322:1:2"
+  - "364:0:64"
+  helmet: "310:0:1:Razor:armor_protection:5"
+  chestplate: "311:0:1:Razor:armor_protection:5"
+  leggings: "312:0:1:Razor:armor_protection:5"
+  boots: "313:0:1:Razor:armor_protection:5"
+
+  commands:
+  - "tell {player} Hey, you just received kit Razor! Thank you for donating, this allows us to give better quality servers for you!"
+
+  cooldown:
+    hours: 3
+    minutes: 0
+demension:
+  items:
+  - "276:0:1:weapon_sharpness:5"
+  - "277:0:1:weapon_efficiency:5"
+  - "278:0:1weapon_efficiency:5"
+  - "279:0:1weapon_efficiency:5"
+  - "322:0:30"
+  - "322:1:2"
+  - "364:0:64"
+  helmet: "310:0:1:Demension:armor_protection:5"
+  chestplate: "311:0:1:Demension:armor_protection:5"
+  leggings: "312:0:1:Demension:armor_protection:5"
+  boots: "313:0:1:Demension:armor_protection:5"
+
+  commands:
+  - "tell {player} Hey, you just received kit Demension! Thank you for donating, this allows us to give better quality servers for you!"
 
   cooldown:
     hours: 3
